@@ -1,0 +1,11 @@
+Mesa 1
+Tortillas, Croquetas y Agua
+
+Mesa 2
+Papas fritas, Cazuela de mariscos y Vino tinto
+
+Mesa 3
+Mondongo, Tortilla y Cerveza
+
+Mesa 4
+Sopa de pollo, Ensalada de coleslaw y Gaseosa

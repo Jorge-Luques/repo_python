@@ -1,0 +1,4 @@
+quiero probar si este archivo sale bien.
+Ojala se de que no salen los saltos de linea que no tienen que ir.
+quiero probar si este archivo sale bien.
+Vamos de  vuelta con el archivo de  texto.
